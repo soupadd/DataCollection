@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<richbond>
+	<update>
+		<wp7>1.4</wp7>
+		<ios>1.5.5</ios>
+		<android>
+			<versionCode>2</versionCode>
+			<versionName>1.0.2</versionName>
+			<downloadUrl>http://sz.yun.ftn.qq.com/ftn_handler/581ea9df58753dd3ca9ff487c30e72e8a1db06be92855ed9735da136df36b2a2/?fname=DataCollection_1.0.2.apk&amp;cn=0&amp;cv=30111</downloadUrl>
+			<updateLog>
+				<![CDATA[
+					软件更新内容
+				]]>
+			</updateLog>
+			<coverUpdate>false</coverUpdate>
+			<coverStartDate>2014-03-05</coverStartDate>
+			<coverEndDate>2014-03-05</coverEndDate>
+			<coverURL/>
+			
+			<dbVersion>201407091427</dbVersion>
+			<dbURL>http://127.0.0.1/FileDownLoad/</dbURL>
+		</android>
+	</update>
+</richbond>
